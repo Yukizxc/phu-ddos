@@ -1,0 +1,11 @@
+git clone https://github.com/ohwahahah/phu-ddos.git
+cd phu-ddos
+sh install.sh
+python3 phu.py
+
+username: 2013
+password: 2013
+
+
+Type [help] To See All Commands 
+Type [layer7] To See All Methods 
